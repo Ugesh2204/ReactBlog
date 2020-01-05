@@ -7,7 +7,7 @@ const Header = props => {
          <nav className="HeaderMenu">
              <a href="#">Home</a>
              <a href="#">About us</a>
-             <a href="#">Contact us</a>
+             <a href="#">Contact ussss</a>
          </nav>
          <div>
              social Media links
