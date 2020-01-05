@@ -1,15 +1,22 @@
 .header {
     display: flex;
     justify-content: space-between;
+    margin: 10px 0;
 }
 
 .headerMenu {
-    margin: 10px 0;
+   
     a {
         display: inline-block;
         margin:0 10px; 
         text-decoration: none;
-        color:red !important;
+        color:#565673;
+        font-size: 12px;
+        letter-spacing: 1.2px;
+
+        &:hover {
+            color:#5f9ea0;
+        }
      }
 }
 
