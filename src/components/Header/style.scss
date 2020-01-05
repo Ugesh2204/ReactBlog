@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerMenu {
+    margin: 10px 0;
+
+    a {
+        display: inline-block;
+        margin:0 10px; 
+        text-decoration: none;
+        // color: #565673;
+        color: green;
+     }
+}
+
