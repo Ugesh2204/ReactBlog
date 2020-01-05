@@ -1,4 +1,5 @@
 import React from'react';
+import './style.css';
 
 const Header = props => {
     return (
@@ -9,7 +10,7 @@ const Header = props => {
              <a href="#">Contact us</a>
          </nav>
          <div>
-             social Media Icons
+             social Media links
          </div>
         </header>
     );
