@@ -4,14 +4,15 @@ import './style.css';
 const Header = props => {
     return (
         <header className="header">
-         <nav className="HeaderMenu">
-             <a href="#">Home</a>
-             <a href="#">About us</a>
-             <a href="#">Contact ussss</a>
-         </nav>
-         <div>
-             social Media links
-         </div>
+            <nav className="headerMenu">
+                <a href="#">Home</a>
+                <a href="#">About us</a>
+                <a href="#">Contact us</a>
+                <a href="#">Contact us</a>
+            </nav>
+            <div>
+                social Media links
+            </div>
         </header>
     );
 }
