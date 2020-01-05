@@ -4,8 +4,9 @@
 
 .headerMenu {
   margin: 10px 0; }
-  .headerMenu a {
-    display: inline-block;
-    margin: 0 12px;
-    text-decoration: none;
-    color: #565673; }
+
+.headerMenu a {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+  color: green; }
